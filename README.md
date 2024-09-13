@@ -1,7 +1,6 @@
 # Piotr Żerdziński
 
-### Technical skills:
-*Python, SQL, PyTorch*
+### Technical skills: *Python, SQL, PyTorch*
 
 ### Education
 **Bachelor of Science in Computer Science**  
