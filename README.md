@@ -1,5 +1,8 @@
 # Piotr Żerdziński
 
+### Technical skills:
+*Python, SQL, PyTorch*
+
 ### Education
 **Bachelor of Science in Computer Science**  
 *Silesian University of Technology*  
@@ -20,13 +23,38 @@ Achivments:
 
 LINK
 
+#### ECG Segmentation
+
+In this project, I adapted the TransUNet architecture to handle 1D data for the segmentation of ECG time series, implementing both MobileNet and EfficientNet models for 1D use. My approach achieved near state-of-the-art results on the MIT-BIH ECG dataset. By introducing an innovative data-feeding technique during training, I significantly improved accuracy. The model segments heartbeats into five distinct classes, aiming for precise heart beat classification in real-world applications.
+
+Achievements:
+
+- nearly state-of-the-art results on the MIT-BIH dataset
+- enhanced accuracy through a novel data-feeding method
+
+LINK
+
 #### Finger vein classification
 
-- Project prepared for research paper (not a final version due to review process)
+- Project prepared for research paper (currently under review)
+
+I developed a custom Convolutional Neural Network (CNN) model with a dedicated preprocessing stage to accurately verify users through their finger vein patterns. The architecture was tested on two publicly available datasets, achieving state-of-the-art results. The model is designed for real-world applications, offering low latency and adaptable processing tracks based on available time and resources.
+
+Achivments:
+- nearly 100% accuracy and an EER (Equal Error Rate) below 0.05% on both datasets
+- optimized for practical use, balancing speed and computational efficiency
 
 LINK
 
 #### Fine-grained classification
+
+- Project prepared for research paper (currently under review)
+
+I designed a custom lightweight CNN model for classifying fish species across diverse datasets, tackling variations in image quality, lighting conditions, and species diversity. The model consistently outperformed other approaches and is optimized for real-world scenarios, particularly in resource-constrained environments.
+
+Achivments:
+- effectively handled imbalanced datasets with poor quality and challenging conditions
+- achieved the best results on 4 out of 7 datasets, with near-best performance on the remaining
 
 LINK
 
