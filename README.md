@@ -21,7 +21,7 @@ Achivments:
 - created a custom dataset by collecting handwritten samples from friends (cleaned, labeled, and organized the dataset for training)
 
 
-#### [ECG Segmentation](https://github.com/PiotrekZe/ECG_Segmentation)
+#### [ECG Segmentation](https://github.com/PiotrekZe/U-ECG-Time)
 
 In this project, I adapted the TransUNet architecture to handle 1D data for the segmentation of ECG time series, implementing both MobileNet and EfficientNet models for 1D use. My approach achieved near state-of-the-art results on the MIT-BIH ECG dataset. By introducing an innovative data-feeding technique during training, I significantly improved accuracy. The model segments heartbeats into five distinct classes, aiming for precise heart beat classification in real-world applications.
 
