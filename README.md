@@ -10,7 +10,7 @@
 ### Projects
 
 
-#### [Handwritten text recognition](https://github.com/PiotrekZe/CRNN-OCR)
+#### [Handwritten text recognition](https://github.com/Projekt-Inzynierski-polsl/OCR_Model)
  - Engineering Thesis Project
 
 In my thesis, I developed a model based on Convolutional Neural Networks (CNN) and Recurrent Neural Networks (RNN) to perform Optical Character Recognition (OCR) on handwritten text. The model is designed to be the core of an application that digitalizes handwritten notes, allowing users to convert their physical notes into searchable, organized digital files. The app provides functionality for users to organize their notes into folders, add descriptions, and efficiently manage their handwritten content.
