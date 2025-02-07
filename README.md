@@ -23,12 +23,12 @@ Achivments:
 
 #### [ECG Segmentation](https://github.com/PiotrekZe/U-ECG-Time)
 
-In this project, I adapted the TransUNet architecture to handle 1D data for the segmentation of ECG time series, implementing both MobileNet and EfficientNet models for 1D use. My approach achieved near state-of-the-art results on the MIT-BIH ECG dataset. By introducing an innovative data-feeding technique during training, I significantly improved accuracy. The model segments heartbeats into five distinct classes, aiming for precise heart beat classification in real-world applications.
+The U-ECG-Time project is an unofficial implementation of the U-Time architecture, originally proposed by M. Perslev et al., adapted for electrocardiogram (ECG) data to detect arrhythmias. While the original U-Time model was applied to EEG data for sleep staging, this project modifies the architecture to handle the unique characteristics of ECG signals. The repository includes the adapted model and details on dataset preparation, emphasizing the importance of tailoring the approach to the specific features of ECG data.
 
 Achievements:
 
-- nearly state-of-the-art results on the MIT-BIH dataset
-- enhanced accuracy through a novel data-feeding method
+- Adaptation of U-Time architecture
+- Dataset preparation to address challenges unique to ECG signal
 
 
 #### [Finger vein classification](https://github.com/PiotrekZe/Finger-vein-classification)
@@ -44,7 +44,7 @@ Achivments:
 
 #### [Fine-grained visual classification of fishes](https://github.com/PiotrekZe/Fine-grained-visual-classfication-of-fish)
 
-- Project prepared for research paper (currently under review)
+- Project prepared for conference paper
 
 I designed a custom lightweight CNN model for classifying fish species across diverse datasets, tackling variations in image quality, lighting conditions, and species diversity. The model consistently outperformed other approaches and is optimized for real-world scenarios, particularly in resource-constrained environments.
 
